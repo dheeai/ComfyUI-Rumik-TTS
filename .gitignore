@@ -1,0 +1,6 @@
+.venv/
+.venv457/
+test_out/
+weights/
+__pycache__/
+*.pyc
